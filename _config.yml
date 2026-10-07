@@ -21,16 +21,14 @@ repository               : "Khanaysha97/khanaysha97.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
+  name             : "Dr. Aysha Parveen"
+  pronouns         : "she/her"
+  bio              : "Ph.D. in Applied Mathematics | Queueing Theory, Stochastic Modelling & Operations Research"
+  location         : "India"
+  employer         : "Indian Institute of Technology Delhi"
+  uri              :
+  email            : "khanaysha.grd@gmail.com"
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
